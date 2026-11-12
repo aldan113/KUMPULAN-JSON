@@ -1,11 +1,9 @@
 {
-  "users": [
-    {
-      "id": "usr_999",
-      "username": "admin",
-      "password": "aldan999",
-      "role": "admin",
-      "displayName": "Administrator"
-    }
+  "codes": [
+    "admin123",
+    "admin113",
+    "aldan999",
+    "aldan1103",
+    "aldan113"
   ]
 }
