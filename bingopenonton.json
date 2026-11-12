@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "usr_888",
+      "username": "guest",
+      "password": "",
+      "role": "spectator",
+      "displayName": "Penonton"
+    }
+  ]
+}
