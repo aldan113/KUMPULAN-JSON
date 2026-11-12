@@ -1,0 +1,704 @@
+{
+  "users": [
+    {
+      "id": "usr_001",
+      "username": "player1",
+      "password": "aldan001",
+      "role": "player",
+      "displayName": "Pemain 1"
+    },
+    {
+      "id": "usr_002",
+      "username": "player2",
+      "password": "aldan002",
+      "role": "player",
+      "displayName": "Pemain 2"
+    },
+    {
+      "id": "usr_003",
+      "username": "player3",
+      "password": "aldan003",
+      "role": "player",
+      "displayName": "Pemain 3"
+    },
+    {
+      "id": "usr_004",
+      "username": "player4",
+      "password": "aldan004",
+      "role": "player",
+      "displayName": "Pemain 4"
+    },
+    {
+      "id": "usr_005",
+      "username": "player5",
+      "password": "aldan005",
+      "role": "player",
+      "displayName": "Pemain 5"
+    },
+    {
+      "id": "usr_006",
+      "username": "player6",
+      "password": "aldan006",
+      "role": "player",
+      "displayName": "Pemain 6"
+    },
+    {
+      "id": "usr_007",
+      "username": "player7",
+      "password": "aldan007",
+      "role": "player",
+      "displayName": "Pemain 7"
+    },
+    {
+      "id": "usr_008",
+      "username": "player8",
+      "password": "aldan008",
+      "role": "player",
+      "displayName": "Pemain 8"
+    },
+    {
+      "id": "usr_009",
+      "username": "player9",
+      "password": "aldan009",
+      "role": "player",
+      "displayName": "Pemain 9"
+    },
+    {
+      "id": "usr_0010",
+      "username": "player10",
+      "password": "aldan0010",
+      "role": "player",
+      "displayName": "Pemain 10"
+    },
+    {
+      "id": "usr_0011",
+      "username": "player11",
+      "password": "aldan0011",
+      "role": "player",
+      "displayName": "Pemain 11"
+    },
+    {
+      "id": "usr_0012",
+      "username": "player12",
+      "password": "aldan0012",
+      "role": "player",
+      "displayName": "Pemain 12"
+    },
+    {
+      "id": "usr_0013",
+      "username": "player13",
+      "password": "aldan0013",
+      "role": "player",
+      "displayName": "Pemain 13"
+    },
+    {
+      "id": "usr_0014",
+      "username": "player14",
+      "password": "aldan0014",
+      "role": "player",
+      "displayName": "Pemain 14"
+    },
+    {
+      "id": "usr_0015",
+      "username": "player15",
+      "password": "aldan0015",
+      "role": "player",
+      "displayName": "Pemain 15"
+    },
+    {
+      "id": "usr_0016",
+      "username": "player16",
+      "password": "aldan0016",
+      "role": "player",
+      "displayName": "Pemain 16"
+    },
+    {
+      "id": "usr_0017",
+      "username": "player17",
+      "password": "aldan0017",
+      "role": "player",
+      "displayName": "Pemain 17"
+    },
+    {
+      "id": "usr_0018",
+      "username": "player18",
+      "password": "aldan0018",
+      "role": "player",
+      "displayName": "Pemain 18"
+    },
+    {
+      "id": "usr_0019",
+      "username": "player19",
+      "password": "aldan0019",
+      "role": "player",
+      "displayName": "Pemain 19"
+    },
+    {
+      "id": "usr_0020",
+      "username": "player20",
+      "password": "aldan0020",
+      "role": "player",
+      "displayName": "Pemain 20"
+    },
+    {
+      "id": "usr_0021",
+      "username": "player21",
+      "password": "aldan0021",
+      "role": "player",
+      "displayName": "Pemain 21"
+    },
+    {
+      "id": "usr_0022",
+      "username": "player22",
+      "password": "aldan0022",
+      "role": "player",
+      "displayName": "Pemain 22"
+    },
+    {
+      "id": "usr_0023",
+      "username": "player23",
+      "password": "aldan0023",
+      "role": "player",
+      "displayName": "Pemain 23"
+    },
+    {
+      "id": "usr_0024",
+      "username": "player24",
+      "password": "aldan0024",
+      "role": "player",
+      "displayName": "Pemain 24"
+    },
+    {
+      "id": "usr_0025",
+      "username": "player25",
+      "password": "aldan0025",
+      "role": "player",
+      "displayName": "Pemain 25"
+    },
+    {
+      "id": "usr_0026",
+      "username": "player26",
+      "password": "aldan0026",
+      "role": "player",
+      "displayName": "Pemain 26"
+    },
+    {
+      "id": "usr_0027",
+      "username": "player27",
+      "password": "aldan0027",
+      "role": "player",
+      "displayName": "Pemain 27"
+    },
+    {
+      "id": "usr_0028",
+      "username": "player28",
+      "password": "aldan0028",
+      "role": "player",
+      "displayName": "Pemain 28"
+    },
+    {
+      "id": "usr_0029",
+      "username": "player29",
+      "password": "aldan0029",
+      "role": "player",
+      "displayName": "Pemain 29"
+    },
+    {
+      "id": "usr_0030",
+      "username": "player30",
+      "password": "aldan0030",
+      "role": "player",
+      "displayName": "Pemain 30"
+    },
+    {
+      "id": "usr_0031",
+      "username": "player31",
+      "password": "aldan0031",
+      "role": "player",
+      "displayName": "Pemain 31"
+    },
+    {
+      "id": "usr_0032",
+      "username": "player32",
+      "password": "aldan0032",
+      "role": "player",
+      "displayName": "Pemain 32"
+    },
+    {
+      "id": "usr_0033",
+      "username": "player33",
+      "password": "aldan0033",
+      "role": "player",
+      "displayName": "Pemain 33"
+    },
+    {
+      "id": "usr_0034",
+      "username": "player34",
+      "password": "aldan0034",
+      "role": "player",
+      "displayName": "Pemain 34"
+    },
+    {
+      "id": "usr_0035",
+      "username": "player35",
+      "password": "aldan0035",
+      "role": "player",
+      "displayName": "Pemain 35"
+    },
+    {
+      "id": "usr_0036",
+      "username": "player36",
+      "password": "aldan0036",
+      "role": "player",
+      "displayName": "Pemain 36"
+    },
+    {
+      "id": "usr_0037",
+      "username": "player37",
+      "password": "aldan0037",
+      "role": "player",
+      "displayName": "Pemain 37"
+    },
+    {
+      "id": "usr_0038",
+      "username": "player38",
+      "password": "aldan0038",
+      "role": "player",
+      "displayName": "Pemain 38"
+    },
+    {
+      "id": "usr_0039",
+      "username": "player39",
+      "password": "aldan0039",
+      "role": "player",
+      "displayName": "Pemain 39"
+    },
+    {
+      "id": "usr_0040",
+      "username": "player40",
+      "password": "aldan0040",
+      "role": "player",
+      "displayName": "Pemain 40"
+    },
+    {
+      "id": "usr_0041",
+      "username": "player41",
+      "password": "aldan0041",
+      "role": "player",
+      "displayName": "Pemain 41"
+    },
+    {
+      "id": "usr_0042",
+      "username": "player42",
+      "password": "aldan0042",
+      "role": "player",
+      "displayName": "Pemain 42"
+    },
+    {
+      "id": "usr_0043",
+      "username": "player43",
+      "password": "aldan0043",
+      "role": "player",
+      "displayName": "Pemain 43"
+    },
+    {
+      "id": "usr_0044",
+      "username": "player44",
+      "password": "aldan0044",
+      "role": "player",
+      "displayName": "Pemain 44"
+    },
+    {
+      "id": "usr_0045",
+      "username": "player45",
+      "password": "aldan0045",
+      "role": "player",
+      "displayName": "Pemain 45"
+    },
+    {
+      "id": "usr_0046",
+      "username": "player46",
+      "password": "aldan0046",
+      "role": "player",
+      "displayName": "Pemain 46"
+    },
+    {
+      "id": "usr_0047",
+      "username": "player47",
+      "password": "aldan0047",
+      "role": "player",
+      "displayName": "Pemain 47"
+    },
+    {
+      "id": "usr_0048",
+      "username": "player48",
+      "password": "aldan0048",
+      "role": "player",
+      "displayName": "Pemain 48"
+    },
+    {
+      "id": "usr_0049",
+      "username": "player49",
+      "password": "aldan0049",
+      "role": "player",
+      "displayName": "Pemain 49"
+    },
+    {
+      "id": "usr_0050",
+      "username": "player50",
+      "password": "aldan0050",
+      "role": "player",
+      "displayName": "Pemain 50"
+    },
+    {
+      "id": "usr_0051",
+      "username": "player51",
+      "password": "aldan0051",
+      "role": "player",
+      "displayName": "Pemain 51"
+    },
+    {
+      "id": "usr_0052",
+      "username": "player52",
+      "password": "aldan0052",
+      "role": "player",
+      "displayName": "Pemain 52"
+    },
+    {
+      "id": "usr_0053",
+      "username": "player53",
+      "password": "aldan0053",
+      "role": "player",
+      "displayName": "Pemain 53"
+    },
+    {
+      "id": "usr_0054",
+      "username": "player54",
+      "password": "aldan0054",
+      "role": "player",
+      "displayName": "Pemain 54"
+    },
+    {
+      "id": "usr_0055",
+      "username": "player55",
+      "password": "aldan0055",
+      "role": "player",
+      "displayName": "Pemain 55"
+    },
+    {
+      "id": "usr_0056",
+      "username": "player56",
+      "password": "aldan0056",
+      "role": "player",
+      "displayName": "Pemain 56"
+    },
+    {
+      "id": "usr_0057",
+      "username": "player57",
+      "password": "aldan0057",
+      "role": "player",
+      "displayName": "Pemain 57"
+    },
+    {
+      "id": "usr_0058",
+      "username": "player58",
+      "password": "aldan0058",
+      "role": "player",
+      "displayName": "Pemain 58"
+    },
+    {
+      "id": "usr_0059",
+      "username": "player59",
+      "password": "aldan0059",
+      "role": "player",
+      "displayName": "Pemain 59"
+    },
+    {
+      "id": "usr_0060",
+      "username": "player60",
+      "password": "aldan0060",
+      "role": "player",
+      "displayName": "Pemain 60"
+    },
+    {
+      "id": "usr_0061",
+      "username": "player61",
+      "password": "aldan0061",
+      "role": "player",
+      "displayName": "Pemain 61"
+    },
+    {
+      "id": "usr_0062",
+      "username": "player62",
+      "password": "aldan0062",
+      "role": "player",
+      "displayName": "Pemain 62"
+    },
+    {
+      "id": "usr_0063",
+      "username": "player63",
+      "password": "aldan0063",
+      "role": "player",
+      "displayName": "Pemain 63"
+    },
+    {
+      "id": "usr_0064",
+      "username": "player64",
+      "password": "aldan0064",
+      "role": "player",
+      "displayName": "Pemain 64"
+    },
+    {
+      "id": "usr_0065",
+      "username": "player65",
+      "password": "aldan0065",
+      "role": "player",
+      "displayName": "Pemain 65"
+    },
+    {
+      "id": "usr_0066",
+      "username": "player66",
+      "password": "aldan0066",
+      "role": "player",
+      "displayName": "Pemain 66"
+    },
+    {
+      "id": "usr_0067",
+      "username": "player67",
+      "password": "aldan0067",
+      "role": "player",
+      "displayName": "Pemain 67"
+    },
+    {
+      "id": "usr_0068",
+      "username": "player68",
+      "password": "aldan0068",
+      "role": "player",
+      "displayName": "Pemain 68"
+    },
+    {
+      "id": "usr_0069",
+      "username": "player69",
+      "password": "aldan0069",
+      "role": "player",
+      "displayName": "Pemain 69"
+    },
+    {
+      "id": "usr_0070",
+      "username": "player70",
+      "password": "aldan0070",
+      "role": "player",
+      "displayName": "Pemain 70"
+    },
+    {
+      "id": "usr_0071",
+      "username": "player71",
+      "password": "aldan0071",
+      "role": "player",
+      "displayName": "Pemain 71"
+    },
+    {
+      "id": "usr_0072",
+      "username": "player72",
+      "password": "aldan0072",
+      "role": "player",
+      "displayName": "Pemain 72"
+    },
+    {
+      "id": "usr_0073",
+      "username": "player73",
+      "password": "aldan0073",
+      "role": "player",
+      "displayName": "Pemain 73"
+    },
+    {
+      "id": "usr_0074",
+      "username": "player74",
+      "password": "aldan0074",
+      "role": "player",
+      "displayName": "Pemain 74"
+    },
+    {
+      "id": "usr_0075",
+      "username": "player75",
+      "password": "aldan0075",
+      "role": "player",
+      "displayName": "Pemain 75"
+    },
+    {
+      "id": "usr_0076",
+      "username": "player76",
+      "password": "aldan0076",
+      "role": "player",
+      "displayName": "Pemain 76"
+    },
+    {
+      "id": "usr_0077",
+      "username": "player77",
+      "password": "aldan0077",
+      "role": "player",
+      "displayName": "Pemain 77"
+    },
+    {
+      "id": "usr_0078",
+      "username": "player78",
+      "password": "aldan0078",
+      "role": "player",
+      "displayName": "Pemain 78"
+    },
+    {
+      "id": "usr_0079",
+      "username": "player79",
+      "password": "aldan0079",
+      "role": "player",
+      "displayName": "Pemain 79"
+    },
+    {
+      "id": "usr_0080",
+      "username": "player80",
+      "password": "aldan0080",
+      "role": "player",
+      "displayName": "Pemain 80"
+    },
+    {
+      "id": "usr_0081",
+      "username": "player81",
+      "password": "aldan0081",
+      "role": "player",
+      "displayName": "Pemain 81"
+    },
+    {
+      "id": "usr_0082",
+      "username": "player82",
+      "password": "aldan0082",
+      "role": "player",
+      "displayName": "Pemain 82"
+    },
+    {
+      "id": "usr_0083",
+      "username": "player83",
+      "password": "aldan0083",
+      "role": "player",
+      "displayName": "Pemain 83"
+    },
+    {
+      "id": "usr_0084",
+      "username": "player84",
+      "password": "aldan0084",
+      "role": "player",
+      "displayName": "Pemain 84"
+    },
+    {
+      "id": "usr_0085",
+      "username": "player85",
+      "password": "aldan0085",
+      "role": "player",
+      "displayName": "Pemain 85"
+    },
+    {
+      "id": "usr_0086",
+      "username": "player86",
+      "password": "aldan0086",
+      "role": "player",
+      "displayName": "Pemain 86"
+    },
+    {
+      "id": "usr_0087",
+      "username": "player87",
+      "password": "aldan0087",
+      "role": "player",
+      "displayName": "Pemain 87"
+    },
+    {
+      "id": "usr_0088",
+      "username": "player88",
+      "password": "aldan0088",
+      "role": "player",
+      "displayName": "Pemain 88"
+    },
+    {
+      "id": "usr_0089",
+      "username": "player89",
+      "password": "aldan0089",
+      "role": "player",
+      "displayName": "Pemain 89"
+    },
+    {
+      "id": "usr_0090",
+      "username": "player90",
+      "password": "aldan0090",
+      "role": "player",
+      "displayName": "Pemain 90"
+    },
+    {
+      "id": "usr_0091",
+      "username": "player91",
+      "password": "aldan0091",
+      "role": "player",
+      "displayName": "Pemain 91"
+    },
+    {
+      "id": "usr_0092",
+      "username": "player92",
+      "password": "aldan0092",
+      "role": "player",
+      "displayName": "Pemain 92"
+    },
+    {
+      "id": "usr_0093",
+      "username": "player93",
+      "password": "aldan0093",
+      "role": "player",
+      "displayName": "Pemain 93"
+    },
+    {
+      "id": "usr_0094",
+      "username": "player94",
+      "password": "aldan0094",
+      "role": "player",
+      "displayName": "Pemain 94"
+    },
+    {
+      "id": "usr_0095",
+      "username": "player95",
+      "password": "aldan0095",
+      "role": "player",
+      "displayName": "Pemain 95"
+    },
+    {
+      "id": "usr_0096",
+      "username": "player96",
+      "password": "aldan0096",
+      "role": "player",
+      "displayName": "Pemain 96"
+    },
+    {
+      "id": "usr_0097",
+      "username": "player97",
+      "password": "aldan0097",
+      "role": "player",
+      "displayName": "Pemain 97"
+    },
+    {
+      "id": "usr_0098",
+      "username": "player98",
+      "password": "aldan0098",
+      "role": "player",
+      "displayName": "Pemain 98"
+    },
+    {
+      "id": "usr_0099",
+      "username": "player99",
+      "password": "aldan0099",
+      "role": "player",
+      "displayName": "Pemain 99"
+    },
+    {
+      "id": "usr_00100",
+      "username": "player100",
+      "password": "aldan00100",
+      "role": "player",
+      "displayName": "Pemain 100"
+    }
+  ]
+}
